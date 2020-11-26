@@ -1,0 +1,44 @@
+.color {
+    color: white;
+    margin-top: 30px;
+}
+
+.main-banner {
+    height: 400px;
+    
+    
+}
+
+.banner h2 {
+    color: black;
+    font-weight: 100;
+    text-align: center;
+}
+
+.banner p {
+    color: gray;
+    font-weight: 200;
+    text-align: center;
+}
+
+.main-sec-BG {
+    background-color: lightgray;
+    padding: 50px;
+}
+
+.card-deck {
+    margin-bottom: 50px;
+}
+
+.card-footer {
+    border-style: none;
+    background: none;
+}
+.btn-style {
+    background: none;
+    border-radius: 5px;
+}
+
+.footer-con {
+    height: 200px;
+}
